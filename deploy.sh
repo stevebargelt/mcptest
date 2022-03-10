@@ -1,0 +1,1 @@
+scp main pi@10.0.20.48:/home/pi 
